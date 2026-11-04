@@ -1,0 +1,21 @@
+# Python & Virtual Environments
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+env/
+
+# Uploaded stego/test files
+uploads/
+*.png
+*.jpg
+*.jpeg
+*.rar
+
+# IDE & Editor files
+.vscode/
+.idea/
+.spyproject/
+

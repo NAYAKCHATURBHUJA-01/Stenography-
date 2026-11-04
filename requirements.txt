@@ -1,0 +1,8 @@
+Pillow
+cryptography
+pycryptodome
+numpy
+Flask
+Werkzeug
+opencv-python
+scikit-image
